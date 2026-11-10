@@ -18,6 +18,9 @@ Los casos completos están en mi portafolio. Los datos de CITRA son confidencial
 | Repositorio | Qué es |
 | --- | --- |
 | [appsmith-mcp](https://github.com/Davidgraciano/appsmith-mcp) | Servidor MCP para administrar una instancia propia de Appsmith desde agentes de IA |
+| [rag-local](https://github.com/Davidgraciano/rag-local) | Preguntas y respuestas sobre documentos propios con Elasticsearch, Ollama y FastAPI, con citas de fuentes |
+| [es-reindexador](https://github.com/Davidgraciano/es-reindexador) | Reindexación de Elasticsearch por lotes con puntos de control y enriquecimiento desde CSV |
+| [geocodificador-co](https://github.com/Davidgraciano/geocodificador-co) | Normalización de direcciones colombianas y geocodificación en cascada |
 
 ### Stack
 
